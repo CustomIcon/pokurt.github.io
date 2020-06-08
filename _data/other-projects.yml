@@ -1,7 +1,7 @@
-- name: Lonely Planet DBMS
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
-  description: 
+- name: Nana-TgUserbot
+  url: https://github.com/pokurt/Nana-Bot
+  code: https://github.com/pokurt/Nana-Bot
+  description: A Modular Telegram Userbot based on Pyrogram - Direct Fork of LegenHand
   used:
     - thing: Python
     - thing: Pyrogram
