@@ -8,6 +8,13 @@
     - thing: Postgres
     - thing: Docker
 
+- name: BeeMovie Script Spammer
+  url: https://github.com/pokurt/BeeMovieScriptSpam
+  code: https://github.com/pokurt/BeeMovieScriptSpam
+  description: Just for fun I made this to prank on my friends.
+  used:
+    - thing: Python
+
 - name: PaperPlaneRemix Extensions
   url: https://github.com/PaperplaneRemixExtensions
   code: https://github.com/PaperplaneRemixExtensions
