@@ -7,3 +7,14 @@
     - thing: Pyrogram
     - thing: Postgres
     - thing: Docker
+
+- name: PaperPlaneRemix Extensions
+  url: https://github.com/PaperplaneRemixExtensions
+  code: https://github.com/PaperplaneRemixExtensions
+  description: A Repository of Extensions for Tg-Userbot and PaperPlaneRemix
+  used:
+    - thing: Python
+    - thing: Telethon
+    - thing: Redis
+    - thing: Docker
+    
