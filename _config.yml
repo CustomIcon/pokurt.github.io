@@ -1,26 +1,24 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Aman Ahmed
+title: Aman Ahmed | Network Technician
+description: an open minded programmer and a web designer
+url: https://pokurt.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: aman@ctemplar.com
+cover: https://pokurt.github.io/img/og.png
+logo: https://pokurt.github.io/img/emojis/programmerboy.png
+resume: https://pokurt.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:aman@ctemplar.com
   - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://twitter.com/ma_nnu_me
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://codepen.io/pokurt
   - title: github
-    url: https://github.com/bchiang7
-  - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://github.com/pokurt
+  - title: Telegram
+    url: https://t.me/pokurt
 
 # Build settings
 markdown: kramdown
