@@ -1,0 +1,9 @@
+- name: Lonely Planet DBMS
+  url: https://github.com/bchiang7/CS3200-Project
+  code: https://github.com/bchiang7/CS3200-Project
+  description: 
+  used:
+    - thing: Python
+    - thing: Pyrogram
+    - thing: Postgres
+    - thing: Docker

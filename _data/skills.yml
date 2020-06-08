@@ -1,0 +1,29 @@
+languages:
+  - item: HTML
+  - item: CSS/Sass
+  - item: Python
+  - item: SQL
+  - item: php
+
+frameworks:
+  - item: Pyrogram
+  - item: Python-Telegram-Bot
+  - item: Telethon
+  - item: Node
+  - item: Electron
+  - item: Wordpress
+  - item: Laravel
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Gulp & Grunt
+  - item: Chrome DevTools
+  - item: Postgres
+  - item: MongoDB
+
+design:
+  - item: Photoshop
+  - item: InDesign
+  - item: Blender
+  - item: Cinema 4D
