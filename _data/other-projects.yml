@@ -5,7 +5,7 @@
   used:
     - thing: Python
     - thing: Pyrogram
-    - thing: Postgres
+    - thing: PostgreSQL
     - thing: Docker
 
 - name: BeeMovie Script Spammer
