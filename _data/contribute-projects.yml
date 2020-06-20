@@ -7,21 +7,20 @@
     - thing: Pyrogram
     - thing: Mongo
     - thing: npm
+# - name: PaperPlaneRemix - TgUserbot
+#     url: https://github.com/AvinashReddy3108/PaperplaneRemix
+#     code: https://github.com/AvinashReddy3108/PaperplaneRemix
+#     description: Such borked, much kanged, very meme.
+#     used:
+#       - thing: Python
+#       - thing: Telethon
+#       - thing: Redis
 
-- name: PaperPlaneRemix - TgUserbot
-    url: https://github.com/AvinashReddy3108/PaperplaneRemix
-    code: https://github.com/AvinashReddy3108/PaperplaneRemix
-    description: Such borked, much kanged, very meme.
-    used:
-      - thing: Python
-      - thing: Telethon
-      - thing: Redis
-
-- name: SaitamaRobot
-    url: https://github.com/AnimeKaizoku/SaitamaRobot
-    code: https://github.com/AnimeKaizoku/SaitamaRobot
-    description: An anime themed Telegram group management bot.
-    used:
-      - thing: Python
-      - thing: Python-Telegram-Bot
-      - thing: PostgreSQL
+# - name: SaitamaRobot
+#     url: https://github.com/AnimeKaizoku/SaitamaRobot
+#     code: https://github.com/AnimeKaizoku/SaitamaRobot
+#     description: An anime themed Telegram group management bot.
+#     used:
+#       - thing: Python
+#       - thing: Python-Telegram-Bot
+#       - thing: PostgreSQL
