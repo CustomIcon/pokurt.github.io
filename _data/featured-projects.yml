@@ -24,3 +24,12 @@
     - thing: Telethon
     - thing: Redis
     - thing: Docker
+
+- name: GitGram
+  url: https://github.com/pokurt/GitGram
+  code: https://github.com/pokurt/GitGram
+  description: Github Integration for Telegram Bot API
+  used:
+    - thing: Python
+    - thing: Python-Telegram-Bot
+    - thing: Telegram
