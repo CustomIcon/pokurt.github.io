@@ -2,12 +2,12 @@
 name: Aman Ahmed
 title: Aman Ahmed | Network Technician
 description: an open minded programmer and a web designer
-url: https://pokurt.github.io/
+url: https://mannu.me/
 baseurl: ''
 email: aman@ctemplar.com
-cover: https://pokurt.github.io/img/og.png
-logo: https://pokurt.github.io/img/emojis/programmerboy.png
-resume: https://pokurt.github.io/resume.pdf
+cover: https://mannu.me/img/og.png
+logo: https://mannu.me/img/emojis/programmerboy.png
+resume: https://mannu.me/resume.pdf
 social:
   - title: email
     url: mailto:aman@ctemplar.com
